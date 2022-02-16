@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "tabWidth": 2,
+  "semi": false,
+  "endOfLine": "lf",
+  "indent": ["error", 4],
+  "linebreak-style": ["error", "unix"],
+  "quotes": ["error", "double"]
+}
